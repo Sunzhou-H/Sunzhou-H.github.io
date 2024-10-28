@@ -22,7 +22,7 @@ title: Sunzhou Huang
 logo: /assets/img/profile.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm a PhD candidate at the University of Texas at San Antonio, advised by <a href="https://www.cs.utsa.edu/~xwang/">Prof. Xiaoyin Wang</a>. 
-  My research focuses on the intersection of software engineering, particularly in software analysis, software evolution, and cloud computing.
+  My research interests lie in software engineering, primarily focused on improving the efficiency of software failure reporting, facilitating build issue resolution, and leveraging AI to optimize the build experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
