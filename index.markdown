@@ -6,6 +6,11 @@ layout: default
 ---
 
 # Publications
+- An Exploratory Study on Build Issue Resolution Among Computer Science Students  
+**Sunzhou Huang**, Na Meng, Xueqing Liu, Xiaoyin Wang 
+37th IEEE Conference on Software Engineering Education and Training (CSEE&T'25)
+In 2025, CSEE&T replaced ICSE's traditional education track.
+
 - Build Issue Resolution from the Perspective of Non-Contributors  
 **Sunzhou Huang**, Xiaoyin Wang  
 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24 NIER)
@@ -27,8 +32,8 @@ Wei Wang, Ningjing Tian, **Sunzhou Huang**, Sen He, Abhijeet Srivastava, Mary Lo
 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST'18)
 
 # Services
-- Committee Member, ICSE'25 Artifact Evaluation Track
-- Sub-reviewer ASE'23 Research Track
-- Sub-reviewer, ICSE'21 Technical Track
-- Sub-reviewer, ASE'21 Research Track
+- PC Member, International Conference on Software Engineering (ICSE), 2025
+- Reviewer, Journal of Software Testing, Verification and Reliability (STVR), 2025
+- Sub-reviewer,  International Conference on Automated Software Engineering (ASE), 2021/2023
+- Sub-reviewer, International Conference on Software Engineering (ICSE), 2021
   
