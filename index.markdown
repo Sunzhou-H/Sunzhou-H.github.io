@@ -8,9 +8,8 @@ layout: default
 # Publications
 - An Exploratory Study on Build Issue Resolution Among Computer Science Students  
 **Sunzhou Huang**, Na Meng, Xueqing Liu, Xiaoyin Wang  
-37th IEEE Conference on Software Engineering Education and Training (CSEE&T'25)  
+IEEE/ACM 47th International Conference on Software Engineering (ICSE'25 CSEE&T)  
 **ACM SIGSOFT Distinguished Paper Award**  
-In 2025, CSEE&T replaced ICSE's traditional education track.
 
 - Build Issue Resolution from the Perspective of Non-Contributors  
 **Sunzhou Huang**, Xiaoyin Wang  
